@@ -15,7 +15,7 @@
   </tr>
 </table>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1500&color=FF5733,FFC300,28A745,00BFFF&center=true&vCenter=true&width=500&lines=Passionate+Data+Analyst+.+.;Insights+Enthusiast+.+.;Data+Storyteller+.+.;Data+Visualization+Specialist+.+.;Turning+Data+Into+Insights+.+."
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1500&color=FF5733,FFC300,28A745,00BFFF&center=true&vCenter=true&width=500&lines=Passionate+Data+Analyst..;Insights+Enthusiast..;Data+Storyteller..;Data+Visualization+Specialist..;Turning+Data+Into+Insights.."
 alt="Typing SVG" />
 
 </div>
