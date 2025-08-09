@@ -21,13 +21,14 @@ alt="Typing SVG" />
 </div>
 
 
-
-
 ---
 <!-- Daily Dev Quote -->
 ### 🧠 Daily Quote  
+<div align="center">
+  
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" alt="Typing SVG" width="200px" />
+</div>
 
 ---
 ### 💫 About Me
