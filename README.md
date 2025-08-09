@@ -48,8 +48,8 @@ alt="Typing SVG" />
 ----
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PriyamMaharana&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" height="160" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=PriyamMaharana&theme=dark&hide_border=true" alt="GitHub Streak" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PriyamMaharana&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="160" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=PriyamMaharana&theme=dark&hide_border=true&include_all_commits=true&count_private=true"" alt="GitHub Streak" height="160" />
  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyamMaharana&theme=dark&hide_border=true&layout=compact&hide=php,javascript,typescript,css,html&include_all_commits=false&count_private=false&cache_seconds=1800" alt="Top Languages"  height="160" />-->
 </p>
 
