@@ -21,29 +21,6 @@ alt="Typing SVG" />
 </div>
 
 
----
-<!-- Daily Dev Quote -->
-### 🧠 Daily Quote  
-<div align="center">
-  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" alt="Typing SVG" width="200px" />
-</div>
-
----
-### 💫 About Me
-- 🔭 Currently working on **Airbnb Data Analysis Dashboard** in Power BI  
-- 📊 Passionate about turning raw data into actionable insights  
-- 🤝 Looking to collaborate on **Data Visualization & ETL Projects**  
-- 🤔 Seeking guidance on **Advanced Machine Learning for Analytics**  
-- 🌱 Learning **Data Engineering concepts (ETL, Data Pipelines, Cloud)**  
-- 📚 Always exploring **new tools & techniques** in data analytics  
-- 💬 Ask me about **SQL, Python for Data Analysis, Power BI**  
-- 🌏 Open to **remote and on-site opportunities** in Data Analytics  
-- ⚡ Fun fact: **I like to clean messy datasets, more than to clean my room 😄**  
-- 🏆 Goal for 2025: **Land a full-time role as a Data Analyst**
-
-
 ----
 ### 📊 GitHub Stats
 <p align="center">
@@ -51,18 +28,6 @@ alt="Typing SVG" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=PriyamMaharana&theme=dark&hide_border=true&include_all_commits=true&count_private=true"" alt="GitHub Streak" height="160" />
  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyamMaharana&theme=dark&hide_border=true&layout=compact&hide=php,javascript,typescript,css,html&include_all_commits=false&count_private=false&cache_seconds=1800" alt="Top Languages"  height="160" />-->
 </p>
-
-
----
-<!-- Contact -->
-### 🌐 Connect With Me  
-<a href="https://www.linkedin.com/in/priyammaharana" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>&nbsp;
-<a href="mailto:priyam.dataengineer@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-
 
 ---
 ### 💻 Technologies & Tools
@@ -90,6 +55,40 @@ alt="Typing SVG" />
 <a href="#"><img src="https://img.shields.io/badge/CSV-FFCE44?style=for-the-badge&logoColor=black" style="margin: 4px;"></a>
 <a href="#"><img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" style="margin: 4px;"></a>
 </p>
+
+---
+### 💫 About Me
+- 🔭 Currently working on **Airbnb Data Analysis Dashboard** in Power BI  
+- 📊 Passionate about turning raw data into actionable insights  
+- 🤝 Looking to collaborate on **Data Visualization & ETL Projects**  
+- 🤔 Seeking guidance on **Advanced Machine Learning for Analytics**  
+- 🌱 Learning **Data Engineering concepts (ETL, Data Pipelines, Cloud)**  
+- 📚 Always exploring **new tools & techniques** in data analytics  
+- 💬 Ask me about **SQL, Python for Data Analysis, Power BI**  
+- 🌏 Open to **remote and on-site opportunities** in Data Analytics  
+- ⚡ Fun fact: **I like to clean messy datasets, more than to clean my room 😄**  
+- 🏆 Goal for 2025: **Land a full-time role as a Data Analyst**
+
+
+---
+<!-- Contact -->
+### 🌐 Connect With Me  
+<a href="https://www.linkedin.com/in/priyammaharana" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>&nbsp;
+<a href="mailto:priyam.dataengineer@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+
+---
+<!-- Daily Dev Quote -->
+### 🧠 Daily Quote  
+<div align="center">
+  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" alt="Typing SVG" width="200px" />
+</div>
 
 
 
