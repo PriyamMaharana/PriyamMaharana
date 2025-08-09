@@ -1,17 +1,24 @@
 <!-- Header Card -->
-<table border="1" cellspacing="0" cellpadding="10" style="border-collapse: collapse; border-color: #00BFFF;">
+<div align="center">
+<table width="90%" style="border: 2px solid #00BFFF; border-radius: 15px; background-color: #0f2027; color: white; border-collapse: collapse;">
   <tr>
-    <td>
-      <img src="https://cdn3d.iconscout.com/3d/premium/thumb/data-analyst-3d-icon-123456.png" alt="Data Analyst" width="100">
-    </td>  
-    <td>
-      <h2>Hi there!👋 Welcome to My GitHub Profile!</h2>
-      <p>📊 <b>Data Analyst</b> | 📈 <b>Insights Enthusiast</b> | 🔍 <b>Data Storyteller</b></p>
-      <p>💡 <b>Tools:</b> Python | SQL | Power BI | Excel | ETL | Dashboard</p>
-      <i>I turn complex data into compelling stories & actionable insights.</i>
+    <!-- Left Profile Image -->
+    <td style="width: 130px; text-align: center; padding: 10px;">
+      <img src="https://github.com/PriyamMaharana.png" alt="Priyam Maharana" width="130" style="border-radius: 10px; box-shadow: 0px 0px 10px rgba(255,255,255,0.3);">
+    </td>
+    <!-- Right Content -->
+    <td style="padding: 25px;">
+      <h2 style="font-size: 1.6em; margin-bottom: 7px;">Hi there!👋 Welcome to My GitHub Profile!</h2>
+      <p style="font-size: 1.1em; margin-bottom: 10px;">📊 <b>Data Analyst</b>  |  📈 <b>Insights Enthusiast</b>  |  🔍 <b>Data Storyteller</b></p>
+      <p><i>I turn complex data into compelling stories & actionable insights.</i></p>
     </td>
   </tr>
 </table>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1500&color=FF5733,FFC300,28A745,00BFFF&center=true&vCenter=true&width=500&lines=Passionate+Data+Analyst;Insights+Enthusiast;Data+Storyteller;Data+Visualization+Specialist;Turning+Data+Into+Insights"
+alt="Typing SVG" />
+
+</div>
 
 
 
@@ -40,9 +47,9 @@
 ----
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=PriyamMaharana&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" height="140px"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=PriyamMaharana&theme=dark&hide_border=true" alt="GitHub Streak" height="140px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyamMaharana&theme=dark&hide_border=true&layout=compact&hide=php,javascript,typescript,css,html&include_all_commits=false&count_private=false&cache_seconds=1800" alt="Top Languages"  height="140px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PriyamMaharana&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" height="130px"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=PriyamMaharana&theme=dark&hide_border=true" alt="GitHub Streak" height="130px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyamMaharana&theme=dark&hide_border=true&layout=compact&hide=php,javascript,typescript,css,html&include_all_commits=false&count_private=false&cache_seconds=1800" alt="Top Languages"  height="130px" />
 </p>
 
 
