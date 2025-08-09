@@ -1,19 +1,19 @@
-<!-- Header -->
-<div align="center">
- <div style="border: 3px solid #00BFFF; border-radius: 15px; padding: 15px; background: linear-gradient(to right, #0f2027, #203a43, #2c5364); color: white; display: flex; align-items: center; justify-content: center;">
-  <img src="https://cdn3d.iconscout.com/3d/premium/thumb/data-analyst-3d-icon-123456.png" alt="Data Analyst" width="90" style="border-radius: 50%; margin-right: 15px; box-shadow: 0px 0px 10px rgba(255,255,255,0.6);">
-  <div>
+<!-- Header Card -->
+<table border="1" cellspacing="0" cellpadding="10" style="border-collapse: collapse; border-color: #00BFFF;">
+  <tr>
+    <td>
+      <img src="https://cdn3d.iconscout.com/3d/premium/thumb/data-analyst-3d-icon-123456.png" alt="Data Analyst" width="100">
+    </td>  
+    <td>
+      <h2>Hi there!👋 Welcome to My GitHub Profile!</h2>
+      <p>📊 <b>Data Analyst</b> | 📈 <b>Insights Enthusiast</b> | 🔍 <b>Data Storyteller</b></p>
+      <p>💡 <b>Tools:</b> Python | SQL | Power BI | Excel | ETL | Dashboard</p>
+      <i>I turn complex data into compelling stories & actionable insights.</i>
+    </td>
+  </tr>
+</table>
 
-### 👋 Hi there! Welcome to My GitHub Profile!  
 
-📊 **Data Analyst** | 📈 **Insights Enthusiast** | 🔍 **Data Storyteller**  
-
-💡 **Tools:** Python | SQL | Power BI | Excel | ETL | Dashboard <br>
-*I turn complex data into compelling stories & actionable insights.*  
-
-  </div>
- </div>
-</div>
 
 
 ---
@@ -51,7 +51,7 @@
 ### 🌐 Connect With Me  
 <a href="https://www.linkedin.com/in/priyammaharana" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>&nbsp;&nbsp;
+</a>&nbsp;
 <a href="mailto:priyam.dataengineer@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
@@ -89,4 +89,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=PriyamMaharana&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
