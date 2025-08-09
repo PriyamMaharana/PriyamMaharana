@@ -35,13 +35,12 @@ alt="Typing SVG" />
 - 🔭 Currently working on **Airbnb Data Analysis Dashboard** in Power BI  
 - 📊 Passionate about turning raw data into actionable insights  
 - 🤝 Looking to collaborate on **Data Visualization & ETL Projects**  
-- 🛠 Skilled in **Python, SQL, Power BI, Excel, and Tableau**  
 - 🤔 Seeking guidance on **Advanced Machine Learning for Analytics**  
 - 🌱 Learning **Data Engineering concepts (ETL, Data Pipelines, Cloud)**  
 - 📚 Always exploring **new tools & techniques** in data analytics  
 - 💬 Ask me about **SQL, Python for Data Analysis, Power BI**  
 - 🌏 Open to **remote and on-site opportunities** in Data Analytics  
-- ⚡ Fun fact: **I can clean messy datasets faster than I clean my room 😄**  
+- ⚡ Fun fact: **I like to clean messy datasets, more than to clean my room 😄**  
 - 🏆 Goal for 2025: **Land a full-time role as a Data Analyst**
 
 
