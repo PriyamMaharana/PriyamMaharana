@@ -91,8 +91,7 @@ alt="Typing SVG" />
 </div>
 
 ---
+<!-- Profile Viewed -->
 ### 👁️ Profile Visited
-![Profile viewed](https://komarev.com/ghpvc/?username=PriyamMaharana&label=PROFILE+VIEWS&color=0e75b6&label_color=ff69b4&style=for-the-badge)
-
-
+![Profile viewed](https://komarev.com/ghpvc/?username=PriyamMaharana&label=PROFILE+VIEWED&color=0e75b6&label_color=ff69b4&style=for-the-badge)
 
