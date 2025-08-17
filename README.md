@@ -58,12 +58,12 @@ alt="Typing SVG" />
 
 ---
 ### 💫 About Me
-- 🔭 Currently working on **Airbnb Data Analysis Dashboard** in Power BI  
+- 🔭 Currently interning on **Labmentix Edtech Ltd.** in **Data Analytics & BI**  
 - 📊 Passionate about turning raw data into actionable insights  
 - 🤝 Looking to collaborate on **Data Visualization & ETL Projects**  
-- 🤔 Seeking guidance on **Advanced Machine Learning for Analytics**  
+- 🤔 Seeking guidance on **Machine Learning for Analytics**  
 - 🌱 Learning **Data Engineering concepts (ETL, Data Pipelines, Cloud)**  
-- 📚 Always exploring **new tools & techniques** in data analytics  
+- 📚 Always exploring **New tools & techniques** in Data Analytics  
 - 💬 Ask me about **SQL, Python for Data Analysis, Power BI**  
 - 🌏 Open to **remote and on-site opportunities** in Data Analytics  
 - ⚡ Fun fact: **I like to clean messy datasets, more than to clean my room 😄**  
