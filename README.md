@@ -54,6 +54,9 @@ alt="Typing SVG" />
 <a href="#"><img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" style="margin: 4px;"></a>
 <a href="#"><img src="https://img.shields.io/badge/CSV-FFCE44?style=for-the-badge&logoColor=black" style="margin: 4px;"></a>
 <a href="#"><img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" style="margin: 4px;"></a>
+<a href="https://docs.streamlit.io/"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" style="margin: 4px;"></a>
+<a href="https://seaborn.pydata.org/"><img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logo=seaborn&logoColor=white" style="margin: 4px;"></a>
+
 </p>
 
 ---
