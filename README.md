@@ -21,6 +21,25 @@ alt="Typing SVG" />
 </div>
 
 
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://github.com/PriyamMaharana.png" width="110">
+    </td>
+    <td>
+      <h2>Hi there! 👋 Welcome to My GitHub Profile!</h2>
+      <p>
+        <span>📊 <strong>Data Analyst</strong></span> &nbsp;|&nbsp;
+        <span>📈 <strong>Insights Enthusiast</strong></span> &nbsp;|&nbsp;
+        <span>🔍 <strong>Data Storyteller</strong></span>
+      </p>
+      <p><i>I turn complex data into compelling stories &amp; actionable insights.</i></p>
+    </td>
+  </tr>
+</table>
+
+
+
 ----
 ### 📊 GitHub Stats
 <p align="center">
@@ -87,8 +106,9 @@ alt="Typing SVG" />
 <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" alt="Typing SVG" width="200px" />
 </div>
 
-
-
 ---
-[![](https://visitcount.itsvg.in/api?id=PriyamMaharana&icon=0&color=0)](https://visitcount.itsvg.in)
+### 👁️ Visitors
+![Profile views](https://komarev.com/ghpvc/?username=PriyamMaharana&label=PROFILE+VIEWS&color=0e75b6&label_color=ff69b4&style=for-the-badge)
+
+
 
