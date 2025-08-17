@@ -3,7 +3,7 @@
 <table width="90%" style="border: 2px solid #00BFFF; border-radius: 15px; background-color: #0f2027; color: white; border-collapse: collapse;">
   <tr>
     <!-- Left Profile Image -->
-    <td style="width: 130px; text-align: center; padding: 10px;">
+    <td style="width: 130px; text-align: center; padding: 5px;">
       <img src="https://github.com/PriyamMaharana.png" alt="Priyam Maharana" width="130" style="border-radius: 10px; box-shadow: 0px 0px 10px rgba(255,255,255,0.3);">
     </td>
     <!-- Right Content -->
@@ -21,31 +21,12 @@ alt="Typing SVG" />
 </div>
 
 
-<table>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://github.com/PriyamMaharana.png" width="110">
-    </td>
-    <td>
-      <h2>Hi there! 👋 Welcome to My GitHub Profile!</h2>
-      <p>
-        <span>📊 <strong>Data Analyst</strong></span> &nbsp;|&nbsp;
-        <span>📈 <strong>Insights Enthusiast</strong></span> &nbsp;|&nbsp;
-        <span>🔍 <strong>Data Storyteller</strong></span>
-      </p>
-      <p><i>I turn complex data into compelling stories &amp; actionable insights.</i></p>
-    </td>
-  </tr>
-</table>
-
-
-
 ----
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PriyamMaharana&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="160" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=PriyamMaharana&theme=dark&hide_border=true&include_all_commits=true&count_private=true"" alt="GitHub Streak" height="160" />
- <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyamMaharana&theme=dark&hide_border=true&layout=compact&hide=php,javascript,typescript,css,html&include_all_commits=false&count_private=false&cache_seconds=1800" alt="Top Languages"  height="160" />-->
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyamMaharana&theme=dark&hide_border=true&layout=compact&hide=php,javascript,typescript,css,html&include_all_commits=false&count_private=false&cache_seconds=1800" alt="Top Languages"  height="160" />
 </p>
 
 ---
@@ -103,7 +84,7 @@ alt="Typing SVG" />
 <div align="center">
   
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" alt="Typing SVG" width="200px" />
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" alt="Typing SVG" width="100px" />
 </div>
 
 ---
