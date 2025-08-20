@@ -1,6 +1,6 @@
 <!-- Header Card -->
 <div align="center">
-<table width="90%" style="border: 2px solid #00BFFF; border-radius: 15px; background-color: #0f2027; color: white; border-collapse: collapse;">
+<table width="90%" style="border: 2px solid #00BFFF; border-radius: 15px; background-color: #0f2027; color: white; border-collapse: collapse;"> 
   <tr>
     <!-- Left Profile Image -->
     <td style="width: 130px; text-align: center; padding: 5px;">
