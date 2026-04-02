@@ -96,7 +96,7 @@
         <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
         <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black">
       </p>
-      <a href="https://github.com/PriyamMaharana">
+      <a href="https://github.com/PriyamMaharana/Airbnb-Insights-Report">
         <img src="https://img.shields.io/badge/View%20Repository-0d1117?style=for-the-badge&logo=github&logoColor=white">
       </a>
     </td>
@@ -109,7 +109,7 @@
         <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black">
         <img src="https://img.shields.io/badge/REST%20API-009688?style=flat-square">
       </p>
-      <a href="https://github.com/PriyamMaharana">
+      <a href="https://github.com/PriyamMaharana/OLA_Insights">
         <img src="https://img.shields.io/badge/View%20Repository-0d1117?style=for-the-badge&logo=github&logoColor=white">
       </a>
     </td>
