@@ -76,14 +76,14 @@
       </a>
     </td>
     <td width="50%" valign="top" style="padding: 10px;">
-      <h4>🔜 CDC Pipeline — Change Data Capture (In Progress)</h4>
+      <h4>🔜 CDC Pipeline — Change Data Capture</h4>
       <p>Near real-time incremental load pipeline using SQL Server's built-in Change Data Capture. Reads LSN-based change logs to apply only inserts, updates, and deletes — eliminating full table scans on every run.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
         <img src="https://img.shields.io/badge/SQL%20Server%20CDC-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white">
       </p>
-      <a>
-        <img src="https://img.shields.io/badge/Status-In%20Progress-orange?style=flat-square">
+      <a href="https://github.com/PriyamMaharana/cdc-pipeline">
+        <img src="https://img.shields.io/badge/View%20Repository-0d1117?style=for-the-badge&logo=github&logoColor=white">
       </a>
     </td>
   </tr>
