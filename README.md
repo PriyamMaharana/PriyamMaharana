@@ -15,7 +15,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1500&color=00BFFF&center=true&vCenter=true&width=620&lines=SQL+%26+ETL+Developer;SCD+Type+2+%7C+CDC+Pipelines;T-SQL+Optimization+%26+Stored+Procedures;Python+ETL+Automation;Star+Schema+%26+Data+Warehouse+Design" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1500&color=00BFFF&center=true&vCenter=true&width=620&lines=SQL+Developer;SCD+Type+2+%7C+CDC+Pipelines;T-SQL+Optimization+%26+Stored+Procedures;Python+ETL+Automation;Star+Schema+%26+Data+Warehouse+Design" alt="Typing SVG" />
 
 </div>
 
