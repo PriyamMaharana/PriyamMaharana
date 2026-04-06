@@ -6,7 +6,7 @@
       <img src="https://github.com/PriyamMaharana.png" alt="Priyam Maharana" width="120" style="border-radius: 12px;">
     </td>
     <td style="padding: 20px 25px;">
-      <h2 style="margin-bottom: 6px;">Priyam Maharana — SQL & ETL Developer</h2>
+      <h2 style="margin-bottom: 6px;">Priyam Maharana - SQL Developer</h2>
       <p style="margin-bottom: 8px;">🗄️ <b>SQL Server</b> &nbsp;|&nbsp; 🏗️ <b>ETL Pipelines</b> &nbsp;|&nbsp; 🐍 <b>Python Automation</b> &nbsp;|&nbsp; 📊 <b>Data Warehousing</b></p>
       <p><i>MCA Graduate · Building production-grade data pipelines and dimensional models from scratch.</i></p>
     </td>
