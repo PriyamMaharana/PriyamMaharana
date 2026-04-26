@@ -49,30 +49,28 @@
 
 ---
 
-### ⚙️ Data Engineering Expertise
+### 💡 Expertise
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ETL%20Pipelines-informational?style=flat-square&color=0078D4">
-  <img src="https://img.shields.io/badge/Data%20Modeling-informational?style=flat-square&color=0078D4">
-  <img src="https://img.shields.io/badge/Data%20Validation-informational?style=flat-square&color=0078D4">
-  <img src="https://img.shields.io/badge/Batch%20Processing-informational?style=flat-square&color=0078D4">
-  <img src="https://img.shields.io/badge/Incremental%20Loading-informational?style=flat-square&color=0078D4">
-  <img src="https://img.shields.io/badge/Data%20Ingestion-informational?style=flat-square&color=0078D4">
-  <img src="https://img.shields.io/badge/API%20Integration-informational?style=flat-square&color=0078D4">
-  <img src="https://img.shields.io/badge/Data%20Warehousing-informational?style=flat-square&color=0078D4">
-</p>
-
----
-
-### 💡 SQL Expertise
-
-<p align="center">
+  <img src="https://img.shields.io/badge/ETL%20Pipelines-informational?style=flat-square&color=orange">
+  <img src="https://img.shields.io/badge/Data%20Modeling-informational?style=flat-square&color=orange">
+  <img src="https://img.shields.io/badge/Data%20Validation-informational?style=flat-square&color=orange">
+  <br>
+  <img src="https://img.shields.io/badge/Batch%20Processing-informational?style=flat-square&color=orange">
+  <img src="https://img.shields.io/badge/Incremental%20Loading-informational?style=flat-square&color=orange">
+  <img src="https://img.shields.io/badge/Data%20Ingestion-informational?style=flat-square&color=orange">
+  <br>
+  <img src="https://img.shields.io/badge/API%20Integration-informational?style=flat-square&color=orange">
+  <img src="https://img.shields.io/badge/Data%20Warehousing-informational?style=flat-square&color=orange">
+  <br><br>
   <img src="https://img.shields.io/badge/CTEs-informational?style=flat-square&color=0078D4">
   <img src="https://img.shields.io/badge/Window%20Functions-informational?style=flat-square&color=0078D4">
   <img src="https://img.shields.io/badge/Stored%20Procedures-informational?style=flat-square&color=0078D4">
+  <br>
   <img src="https://img.shields.io/badge/Indexing%20%26%20Query%20Tuning-informational?style=flat-square&color=0078D4">
   <img src="https://img.shields.io/badge/Star%20Schema%20Design-informational?style=flat-square&color=0078D4">
   <img src="https://img.shields.io/badge/SCD%20Type%202-informational?style=flat-square&color=0078D4">
+  <br>
   <img src="https://img.shields.io/badge/MERGE%20%2F%20Upsert-informational?style=flat-square&color=0078D4">
   <img src="https://img.shields.io/badge/Execution%20Plans-informational?style=flat-square&color=0078D4">
 </p>
