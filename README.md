@@ -27,18 +27,39 @@
   <img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Azure%20Synapse-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white">
   <br><br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
   <img src="https://img.shields.io/badge/pyodbc-00599C?style=for-the-badge">
   <br><br>
   <img src="https://img.shields.io/badge/SSIS-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/Azure%20Data%20Factory-FF6F00?style=for-the-badge&logo=microsoft-azure&logoColor=white">
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white">
+  <br><br>
   <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
+  <img src="https://img.shields.io/badge/Azure%20Blob%20Storage-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white">
   <br><br>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img src="https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
+</p>
+
+---
+
+### ⚙️ Data Engineering Expertise
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ETL%20Pipelines-informational?style=flat-square&color=0078D4">
+  <img src="https://img.shields.io/badge/Data%20Modeling-informational?style=flat-square&color=0078D4">
+  <img src="https://img.shields.io/badge/Data%20Validation-informational?style=flat-square&color=0078D4">
+  <img src="https://img.shields.io/badge/Batch%20Processing-informational?style=flat-square&color=0078D4">
+  <img src="https://img.shields.io/badge/Incremental%20Loading-informational?style=flat-square&color=0078D4">
+  <img src="https://img.shields.io/badge/Data%20Ingestion-informational?style=flat-square&color=0078D4">
+  <img src="https://img.shields.io/badge/API%20Integration-informational?style=flat-square&color=0078D4">
+  <img src="https://img.shields.io/badge/Data%20Warehousing-informational?style=flat-square&color=0078D4">
 </p>
 
 ---
@@ -62,6 +83,22 @@
 
 <table width="100%">
   <tr>
+    <td  width="50%" valign="top" style="padding: 10px;">
+      <h4>🔜 E-Commerce SQL Analytics Platform</h4>
+      <p>End-to-end ETL and analytics platform on 1.2M+ e-commerce records, designed star schema for data warehouse (fact + dimension tables), developed 20+ advanced SQL queries for business insights. Implemented data quality framework with validation checks, optimized query performance reducing execution plans. Automated scheduled workflow using SQL Server Agent, with Monitoring and Email alerts.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white">
+        <img src="https://img.shields.io/badge/ETL%20Pipelines-informational?style=flat-square&color=orange">
+        <img src="https://img.shields.io/badge/pyodbc-00599C?style=flat-square">
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
+        <img src="https://img.shields.io/badge/SSMS-informational?style=flat-square&color=blue">
+        <img src="https://img.shields.io/badge/SQL%20Agent-informational?style=flat-square&color=red">
+      </p>
+      <a href="https://github.com/PriyamMaharana/E-commerce-Sql-Analytics-Platform">
+        <img src="https://img.shields.io/badge/View%20Repository-0d1117?style=for-the-badge&logo=github&logoColor=white">
+      </a>
+    </td>
     <td width="50%" valign="top" style="padding: 10px;">
       <h4>🔄 SCD Type 2 — Customer Dimension Pipeline</h4>
       <p>End-to-end ETL pipeline implementing Slowly Changing Dimension Type 2 logic in Python + SQL Server. Classifies 200+ records per batch into NEW / SCD2_CHANGE / SOFT_UPDATE / NO_CHANGE — preserving full customer history with expire+insert dual operations, staging layer, and audit logging.</p>
@@ -75,6 +112,8 @@
         <img src="https://img.shields.io/badge/View%20Repository-0d1117?style=for-the-badge&logo=github&logoColor=white">
       </a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top" style="padding: 10px;">
       <h4>🔜 CDC Pipeline — Change Data Capture</h4>
       <p>Near real-time incremental load pipeline using SQL Server's built-in Change Data Capture. Reads LSN-based change logs to apply only inserts, updates, and deletes — eliminating full table scans on every run.</p>
@@ -86,8 +125,6 @@
         <img src="https://img.shields.io/badge/View%20Repository-0d1117?style=for-the-badge&logo=github&logoColor=white">
       </a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top" style="padding: 10px;">
       <h4>🏠 Airbnb Listing Analytics & Price Insights</h4>
       <p>Structured data warehouse from 50,000+ raw Airbnb records. Performance-tuned SQL using window functions, CTEs, and subqueries uncovered pricing patterns showing a 23% premium over average listings.</p>
@@ -100,6 +137,7 @@
         <img src="https://img.shields.io/badge/View%20Repository-0d1117?style=for-the-badge&logo=github&logoColor=white">
       </a>
     </td>
+    <tr>
     <td width="50%" valign="top" style="padding: 10px;">
       <h4>🚖 OLA Ride Data Pipeline & Analytics Platform</h4>
       <p>End-to-end ETL pipeline ingesting real-time ride data via REST APIs into a SQL Server star schema. Designed fact and dimension tables enabling analytical queries across 5M+ ride records. Built 5 Power BI dashboards tracking 10+ KPIs.</p>
@@ -137,8 +175,8 @@
 
 - 🔨 &nbsp;Building **CDC Pipeline** — SQL Server Change Data Capture with Python
 - 📖 &nbsp;Upskilling in **SSIS** and **Azure Data Factory (ADF)**
-- 🎯 &nbsp;Targeting **SQL Developer / ETL Developer / Implementation Associate** roles
-- 💬 &nbsp;Ask me about **SCD Type 2, T-SQL window functions, ETL pipeline design**
+- 🎯 &nbsp;Targeting **Data Engineer / ETL Developer** roles
+- 💬 &nbsp;Ask me about **SCD Type-2 historical changes, Change Data Capture Incremental Load , ETL pipeline design**
 
 ---
 
